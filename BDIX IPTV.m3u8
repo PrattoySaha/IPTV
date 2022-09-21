@@ -41,3 +41,24 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",SANGSAD
 http://103.106.2.152:13456/sangsad.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",MACHRANGA
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",MATRIVUMI
+http://tv.anwarlinkisp.com:1895/live/bangladesh/playlist.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",TSPORTS
+http://appcdn.jagobd.com:1934/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",BEIN
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",adsports1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",DORATV
+https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",RONGIN
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
