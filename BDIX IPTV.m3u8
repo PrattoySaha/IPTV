@@ -23,3 +23,6 @@ http://103.16.24.54:8080/channel6/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",SONY SIX HD
 http://103.16.24.54:8080/channel7/index.m3u8
+
+
+http://103.106.2.152:13456/btv.m3u8
