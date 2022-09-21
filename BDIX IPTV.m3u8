@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",STAR SPORTS 1
 http://103.16.24.54:8080/channel1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",151.T Sports [1]
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",STAR JALSA HD
 http://103.16.24.54:8080/channel5/index.m3u8
 
