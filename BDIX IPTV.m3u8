@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",BTV
 http://103.106.2.152:13456/btv.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",BTV
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",GTV
 http://chocotv.live:8080/GaziTV/tracks-v1a1/mono.m3u8?token=cafd082bbdc3cf1fd9c20164b0161628a4974ec5-2196e8e9b974199ee97a3adcb884199e-1663883034-1663872234
 
 
