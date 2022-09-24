@@ -204,381 +204,164 @@ http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 
 
 
-#EXTINF:0,BTV HD
-#EXTGRP:Local
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",BTV HD
 http://103.106.2.152:13456/btv.m3u8
-#EXTINF:0,BTV World
-#EXTGRP:Local
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",BTV World
 http://nayeemparvez-btv.hopto.org:13456/btv_world.m3u8
-#EXTINF:0,Sangsad Bangladesh
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Sangsad Bangladesh
 http://nayeemparvez-btv.hopto.org:13456/sangsad.m3u8
-#EXTINF:0,BTV Chattogram
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",BTV CHATTOGRAM
 http://nayeemparvez-btv.hopto.org:13456/btv_ctg.m3u8
-#EXTINF:0,ATN Bangla
-#EXTGRP:Local
-https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:0,Channel I
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Channel I
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:0,Ekushey Television
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",EKUSHE TELEVISION
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:0,NTV
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",NTV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-#EXTINF:0,RTV
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",RTV HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
-#EXTINF:0,Boishakhi TV
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Boishakhi TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:0,Banglavision
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",BANGLA VISION
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
-#EXTINF:0,Desh TV
-#EXTGRP:Local
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
-#EXTINF:0,My TV
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",MY TV HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:0,ATN News
-#EXTGRP:Local
-http://tv2.ebox.live:8080/live/ex-atnae.m3u8
-#EXTINF:0,Mohona TV
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Mohona
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-#EXTINF:0,Bijoy TV
-#EXTGRP:Local
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
-#EXTINF:0,Somoy
-#EXTGRP:Local
-https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:0,Independent
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:0,Maasranga
-#EXTGRP:Local
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:0,Channel 9
-#EXTGRP:Local
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
-#EXTINF:0,Channel 24
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Channel 24
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:0,Gazi TV
-#EXTGRP:Local
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:0,Ekattor
-#EXTGRP:Local
-http://172.27.27.3:8088/hls/01_Gazitv.m3u8
-#EXTINF:0,Asian
-#EXTGRP:Local
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
-#EXTINF:0,SATV
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SATV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:0,Gaan Bangla
-#EXTGRP:Local
-http://iptv.hplink.com.bd:8080/hls/sportss.m3u8
-#EXTINF:0,Jamuna TV
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",JAMUNA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:0,Deepto
-#EXTGRP:Local
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/playlist.m3u8
-#EXTINF:0,DBC 24/7 News
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",DBC News HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
-#EXTINF:0,News 24
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",News 24 HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:0,Bangla TV
-#EXTGRP:Local
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",BANGLA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-#EXTINF:0,Duronto TV
-#EXTGRP:Local
-http://nayeem-parvez.ml/Join-AllLiveSportsLinks/redline.php?indexm3u8=http://31.172.87.17:2200/EX/starsports1hd-in/index.m3u8
+
 #EXTINF:0,Nagorik TV
 #EXTGRP:Local
 https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME/master_mdh.m3u8?hdnea=st=1663683807~exp=1663684107~acl=*~id=6a942929-4fd7-494a-8a1f-9eff2d2067c1~hmac=bc2236515ef00b0ed102884d2ba5589b495c1ae76a96a532b1f5fceb2e0414d3&originpath=/linear/hls/pb/event/ARSsLLOjSl2bsGjkQB2UAw/stream/36d482ee-0072-478f-9788-674b57853ede:SIN2/master.m3u8
-#EXTINF:0,Ananda TV
-#EXTGRP:Local
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ANANDA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:0,T Sports
-#EXTGRP:Local
-http://jupiter.bdcabletv.com/T-sp/tracks-v1a1/mono.m3u8
-#EXTINF:0,Nexus Television
-#EXTGRP:Local
-http://65.21.128.100:8080/SkySportsCricket/index.m3u8
-#EXTINF:0,Ekhon
-#EXTGRP:Local
+
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SKY SPORTS CRICKET
 http://116.204.149.11:8000/play/a00l/index.m3u8
-#EXTINF:0,Global Television
-#EXTGRP:Local
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",STAR SPORTS SELECT 1 HD
 http://103.16.24.54:8080/channel1/index.m3u8
-#EXTINF:0,Nick
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:0,Pogo
-#EXTGRP:Infotainment
-http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
-#EXTINF:0,PBS Kids
-#EXTGRP:Infotainment
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:0,EBS Kids
-#EXTGRP:Infotainment
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:0,Discovery
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/discovery.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:0,National Geographic
-#EXTGRP:Infotainment
-http://tv2.ebox.live:8080/live/natg.m3u8
-#EXTINF:0,Love Nature
-#EXTGRP:Infotainment
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
-#EXTINF:0,NASA TV
-#EXTGRP:Infotainment
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:0,RT Documentary
-#EXTGRP:Infotainment
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0,CGTN Documentary
-#EXTGRP:Infotainment
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:0,Travel XP
-#EXTGRP:Infotainment
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0,Redbull TV
-#EXTGRP:Infotainment
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:0,CNN
-#EXTGRP:Infotainment
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:0,Aljazeera
-#EXTGRP:Infotainment
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0,BBC World News
-#EXTGRP:Infotainment
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-#EXTINF:0,Deutsche Welle
-#EXTGRP:Infotainment
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
-#EXTINF:0,France 24
-#EXTGRP:Infotainment
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
-#EXTINF:0,RT
-#EXTGRP:Infotainment
-https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
-#EXTINF:0,TRT World
-#EXTGRP:Infotainment
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:0,CGTN
-#EXTGRP:Infotainment
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0,NHK World
-#EXTGRP:Infotainment
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:0,Arirang
-#EXTGRP:Infotainment
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
-#EXTINF:0,CNA
-#EXTGRP:Infotainment
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0,Australia News
-#EXTGRP:Infotainment
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:0,Bloomberg
-#EXTGRP:Infotainment
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:0,BTV Quictake
-#EXTGRP:Infotainment
-https://www.bloomberg.com/media-manifest/streams/qt.m3u8
-#EXTINF:0,NDTV 24x7
-#EXTGRP:Infotainment
+
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
-#EXTINF:0,India Today
-#EXTGRP:Infotainment
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-#EXTINF:0,TV9 Bangla
-#EXTGRP:Infotainment
-https://vidcdn.vidgyor.com/tv9bangla-origin/live/tv9bangla-origin/live_360p/chunks.m3u8
-#EXTINF:0,R Plus News
-#EXTGRP:Infotainment
-https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/rplus-origin/live1/chunks.m3u8
-#EXTINF:0,Calcutta News
-#EXTGRP:Infotainment
-https://donb9c5d9m3up.cloudfront.net/app-19690-1609/ngrp:i3pXj52u_all/chunklist_w421024176_b948304.m3u8
-#EXTINF:0,Zee 24 Ghanta
-#EXTGRP:Infotainment
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ZEE 24 Ghanta
 https://d3dyw3d1wswml0.cloudfront.net/out/v1/c549619d46ce42b28649a25c12f3ee4b/index_9.m3u8
-#EXTINF:0,Zee Bangla
-#EXTGRP:Entertainment
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ZEE BANGLA
 http://103.16.24.54:8080/channel4/index.m3u8
-#EXTINF:0,Star Jalsha
-#EXTGRP:Entertainment
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",STAR JALSA
 http://103.16.24.54:8080/channel5/index.m3u8
-#EXTINF:0,Colors Bangla
-#EXTGRP:Entertainment
-http://208.86.19.16/616.stream/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sony Aath
-#EXTGRP:Entertainment
+
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:0,Enter10 Bangla
-#EXTGRP:Entertainment
-https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
-#EXTINF:0,Khushboo Bangla
-#EXTGRP:Entertainment
-http://banglaip.ddns.net:1895/live/sananda/playlist.m3u8
-#EXTINF:0,Zee Bangla Cinema
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
-#EXTINF:0,Star Jalsha Movies
-#EXTGRP:Entertainment
-http://ranapk.ddns.net/hls/jalshamovies.m3u8
-#EXTINF:0,Star Plus
-#EXTGRP:Entertainment
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Star Plus
 http://103.16.24.54:8080/channel3/index.m3u8
-#EXTINF:0,SET
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:0,SAB
-#EXTGRP:Entertainment
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",STAR MAHAN HD
 http://103.16.24.54:8080/channel8/index.m3u8
-#EXTINF:0,Colors
-#EXTGRP:Entertainment
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0,Zee TV
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:0,Zee Cinema
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:0,Star Gold
-#EXTGRP:Entertainment
-http://jupiter.bdcabletv.com/Stargold_ENC/video.m3u8
-#EXTINF:0,Star Gold Select
-#EXTGRP:Entertainment
-https://tv.googledrivelinks.com/live.php?c=Colors_Cineplex&q=250&e=.m3u8
-#EXTINF:0,MAX
-#EXTGRP:Entertainment
-http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
-#EXTINF:0,MAX2
-#EXTGRP:Entertainment
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",&PICTURES HD
 http://103.16.24.54:8080/channel6/index.m3u8
-#EXTINF:0,Star Movies
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/star-movies.m3u8
-#EXTINF:0,HBO
-#EXTGRP:Entertainment
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Sony PIX HD
 http://103.16.24.54:8080/channel2/index.m3u8
-#EXTINF:0,World Fashion Channel
-#EXTGRP:Entertainment
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
-#EXTINF:0,Fashion TV
-#EXTGRP:Entertainment
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:0,Sangeet Bangla
-#EXTGRP:Entertainment
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SANGIT BANGLA
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:0,MTV
-#EXTGRP:Entertainment
-http://tv2.ebox.live:8080/live/starsports-3.m3u8
-#EXTINF:0,Showbox
-#EXTGRP:Entertainment
-https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
-#EXTINF:0,9XM
-#EXTGRP:Entertainment
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:0,9X Jalwa
-#EXTGRP:Entertainment
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:0,Mastiii
-#EXTGRP:Entertainment
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii-indias-no1-music-and-youth-channel/eef95ee1-8f3e-48c3-9331-c6b297ed01d8/0.m3u8
-#EXTINF:0,Kadak Hits
-#EXTGRP:Entertainment
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:0,Dil Se
-#EXTGRP:Entertainment
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",DIL SE
 https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:0,VH1 Italia
-#EXTGRP:Entertainment
-http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:0,Ocko Expres
-#EXTGRP:Entertainment
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
-#EXTINF:0,Radio m2o
-#EXTGRP:Entertainment
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:0,V2Beat
-#EXTGRP:Entertainment
-https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0,Music Top
-#EXTGRP:Entertainment
-http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1641158776.m3u8
-#EXTINF:0,Kronehit TV
-#EXTGRP:Entertainment
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0,Star Sports Select 1
-#EXTGRP:Sports
-http://ranapk.ddns.net/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:0,Star Sports Select 2
-#EXTGRP:Sports
-http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
-#EXTINF:0,Star Sports 1
-#EXTGRP:Sports
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",STAR SPORTS SELECT 1 
 http://103.16.24.54:8080/channel1/index.m3u8
-#EXTINF:0,Star Sports 2
-#EXTGRP:Sports
-http://185.53.88.77:8070/live/asadmanzur/39e379b23d/3630.m3u8?token=ShUNAEFcElxEWgBRDgFbVgAMB1MAVFFfVAQFV1RXV1QID1IHBQ0EBAAaGEZKTREDAFhpWAUVDwoAAlNOFRcSBkNoDAUQDhJeUQ4CRhUbFw8MUBQLURsXSV9VQVgVUFNWCQFHTRBRSBIDSloFVWYHAxdcVVRDDVtMWl1PQFgMPgdUWgQPVhYKRFYaGEZQShNEW1tDXQ0bF1tfRREDQwdDWRMEV1AHFhxEBVdBCk1LGkRbF3h9QxsXXE5FBgxECw4NEw1HDAFBCERKGl0XZksGFRVHU1AMUkcbDBNSQBtADAJJaAYOXFpVBRJRWwpKG1lEUAAGE00VWFZYWBcNRT0RClUVX0MABwNQVRpJ
-#EXTINF:0,Star Sports Hindi
-#EXTGRP:Sports
-https://www.mediaserver.express/live/RV1AoezO/index.m3u8
-#EXTINF:0,SIX
-#EXTGRP:Sports
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Sony SIX HD
 http://103.16.24.54:8080/channel7/index.m3u8
-#EXTINF:0,TEN1
-#EXTGRP:Sports
-http://jupiter.bdcabletv.com/ten_1-enc/video.m3u8
-#EXTINF:0,TEN2
-#EXTGRP:Sports
-http://jupiter.bdcabletv.com/ten_2-enc/video.m3u8
-#EXTINF:0,TEN3
-#EXTGRP:Sports
-https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME/master_mdh.m3u8?hdnea=st=1661610343~exp=1661610643~acl=*~id=31b83fd2-87ed-4c44-8cd3-e32a592319bf~hmac=5ffcef6c871036cac0a42dbf14bfe65a32801480ee22f4fd01c0b8194d3a3b9b&originpath=/linear/hls/pb/event/ARSsLLOjSl2bsGjkQB2UAw/stream/1acdb69e-9a3f-43a0-828f-bb47700889af:SIN/master.m3u8
-#EXTINF:0,TEN Sports
-#EXTGRP:Sports
-http://logo.univisiontv.xyz:8080/live/Digi667457/Digi667457/1553.m3u8?token=TRAOWEBQQAIaUAMCDFRSDwEDBgwHVlJbUlYKWAhWWQgPUAAOAl1QCFxHHUFLFhFSVFg9UVERDQkFBQoVE0ZLXERtD10RAkAJClEIUxpOQUNcWAcaDwMbGkBZXRsLEQsIBwVVGx8aB0BMAEMNWQ48U1BDC1tQEQ1WRVxVFRNcVmZSVwtYXVxAAhpVE08aCxBHFw8MTVlfGxpSWU1LUEddGwwQVQsDCUAUGgZeFlYWEU4XD0B6cREbGlVITVxfQFFWWBBcG14LFwAaSRMKSz0RUkZBEF1UXlJKEgobCRMfGlRXSjlaXFYMXVsRWAxWEUENFwRAFBdeWFZZRFZLbkNRXRQIRAgADFcaRQ==
-#EXTINF:0,PTV Sports
-#EXTGRP:Sports
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Sony SIX HD
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:0,Sky Sports
-#EXTGRP:Sports
-http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:0,Willow Cricket
-#EXTGRP:Sports
-http://103.145.12.71:8070/live/asadmanzur/39e379b23d/2372.m3u8?token=ShUNAEFcElxEDg1UXV0HX1EBDwEFAFZaVFMHVFZTA1FQVQAEBwAIAFAaGEZKTREDAFhpWAUVDwsFBlFOFRcSBkNoDAUQDhJeUQ4CRhUbFw8MUBQLURsXSV9VQVgVV1dSBAZHTRBRSBIDSloFVWYHAxdcVVRDDVtMWl1PQFgMPgdUWgQPVhYKRFYaGEZQShNEW1tDXQ0bF1tfRREDQwdDWRMCXFgEFhxEBVdBCk1LGkRbF3h9QxsXXE5FBgxECw4NEw1HDAFBCERKGl0XZksGFRVHU1AMUkcbDBNSQBtADAJJaAYOXFpVBRJRWwpKG1lEUAAGE00VWFZYWBcNRT0RClUVX0MGAwdXUxpJ
-#EXTINF:0,FOX 501
-#EXTGRP:Sports
-https://s1.123zcast.com:8100/hls/yt43.m3u8
-#EXTINF:0,FOX Sports News
-#EXTGRP:Sports
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master960x540_v3.m3u8#EXTINF:0,Super Sport
-#EXTINF:0,Super Sport
-#EXTGRP:Sports
-http://89.187.179.134:8080/live/Tvkings/eVb5MsHUkS/1408.m3u8?token=SBsLAhEJEF5EBw0DAQdWUlNQXQIEUFILBlRQUAsAWwsCWwABWgAAV1UUFBJLRUJRAFhmXlIQCgNXAFsYEEdLXEFmCgdAWxBRVhQUEkxYXVFDDwkbFEJZVkEKQQUKAgoLERVBBhoVVxYIV1RvXFRGXQJQGw1YR1xeTxIMWm1WXVRSVwdBWEMCRkoUUUNIEwpaFFlVGxRQWUYRURdREAgaCAcOUEFOQ1ELE1hMQkETChYjcRsbFFdIRgZeEF1dXBoDEVRQFlpDHkYPRWdCXUJERgRUVFJEEAoQUhJPFl9TQGZQVg0NBwJGDQlYSxICEwMDVBcVFVtdXlsXXxFrQltcGwkbUVZTUgNGGw==
-#EXTINF:0,ESPN
-#EXTGRP:Sports
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/-rTMM1biVsiiBKebmTz7rLmDKOHn0tf_PlP_JYSd66NkNyvW0FjlXeLToZ1pSOxdxoQp0nsTkZve6X3YNb5iOA/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live
-#EXTINF:0,beIN Sports
-#EXTGRP:Sports
-https://live-ak.vimeocdn.com/exp=1661611994~acl=%2F632dcea1-6eef-4caf-9920-dc4a7fe465a6%2F%2A~hmac=4968319a416b31afaa9e038febcb9871ea7d7eda9cdf1c177b5b99f4674bef79/632dcea1-6eef-4caf-9920-dc4a7fe465a6/chunklist_b416000.m3u8
 
 
 
@@ -586,7 +369,11 @@ https://live-ak.vimeocdn.com/exp=1661611994~acl=%2F632dcea1-6eef-4caf-9920-dc4a7
 http://iptv.sarkernet.com/hls/bindass.m3u8
 http://iptv.sarkernet.com/hls/utvaction.m3u8
 http://iptv.sarkernet.com/hls/zoom.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SUNTV HD
 http://iptv.sarkernet.com/hls/andpictures.m3u8
+
+
 http://iptv.sarkernet.com/hls/colore-tv-hd.m3u8
 http://iptv.sarkernet.com/hls/zeecinemahd.m3u8
 http://iptv.sarkernet.com/hls/starplus.m3u8
@@ -595,11 +382,23 @@ http://iptv.sarkernet.com/hls/sonymax.m3u8
 http://iptv.sarkernet.com/hls/stargold2hd.m3u8
 http://iptv.sarkernet.com/hls/sonyen.m3u8
 http://iptv.sarkernet.com/hls/sony-maxhd.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SUNTV HD
 http://iptv.sarkernet.com/hls/zeetv.m3u8
+
+
+
 http://iptv.sarkernet.com/hls/dis-science.m3u8
 http://iptv.sarkernet.com/hls/stargold.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",DHINCHUK 2
 http://iptv.sarkernet.com/hls/dhin.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",9XM
 http://iptv.sarkernet.com/hls/9xm.m3u8
+
+
+
 http://iptv.sarkernet.com/hls/sonypixhd.m3u8
 http://iptv.sarkernet.com/hls/movies-now.m3u8
 http://iptv.sarkernet.com/hls/starmovies.m3u8
@@ -612,9 +411,19 @@ http://iptv.sarkernet.com/hls/tlc.m3u8
 http://iptv.sarkernet.com/hls/wild.m3u8
 http://iptv.sarkernet.com/hls/star-worldhd.m3u8
 http://iptv.sarkernet.com/hls/mnx-hd.m3u8
+
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",AXN
 http://iptv.sarkernet.com/hls/axn.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",BBCworld
 http://iptv.sarkernet.com/hls/bbcworld.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ALJAZEERA
 http://iptv.sarkernet.com/hls/aljazeera.m3u8
+
+
 http://iptv.sarkernet.com/hls/sonysix.m3u8
 http://iptv.sarkernet.com/hls/euro.m3u8
 http://iptv.sarkernet.com/hls/Star_Sport_Select1HD.m3u8
@@ -625,16 +434,39 @@ http://iptv.sarkernet.com/hls/select2.m3u8
 http://iptv.sarkernet.com/hls/sonyten2.m3u8
 http://iptv.sarkernet.com/hls/sonyten1.m3u8
 http://iptv.sarkernet.com/hls/t-sports.m3u8
+
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",TEN Sports
 http://iptv.sarkernet.com/hls/ten.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",PTV SPORTS
 http://iptv.sarkernet.com/hls/ptv.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SUNBANGLA
 http://iptv.sarkernet.com/hls/sunbangla.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Independent
 http://iptv.sarkernet.com/hls/indepen.m3u8
+
 http://iptv.sarkernet.com/hls/Sony_Aath.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",GAZI TV GTV
 http://iptv.sarkernet.com/hls/Gazi-TV.m3u8
+
+
 http://iptv.sarkernet.com/hls/travelxp.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",EKATTOR TV
 http://iptv.sarkernet.com/hls/nexus.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ChannelI
 http://iptv.sarkernet.com/hls/channeli.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",MACHRANGA
 http://iptv.sarkernet.com/hls/masranga.m3u8
+
+
 http://iptv.sarkernet.com/hls/somoy.m3u8
 http://iptv.sarkernet.com/hls/zee-bangla-cinema.m3u8
 http://iptv.sarkernet.com/hls/colore-bangla-cinema.m3u8
@@ -644,25 +476,57 @@ http://iptv.sarkernet.com/hls/zeebanglahd.m3u8
 http://iptv.sarkernet.com/hls/starjalsha.m3u8
 http://iptv.sarkernet.com/hls/dis-kid.m3u8
 http://iptv.sarkernet.com/hls/nick.m3u8
+
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SUN BANGLA
 http://iptv.sarkernet.com/hls/cn.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SUN BANGLA
 http://iptv.sarkernet.com/hls/pogo.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",MADANI
 http://iptv.sarkernet.com/hls/madani.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",QURQNTV
 http://iptv.sarkernet.com/hls/qurqntv.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",MASTI
 http://iptv.sarkernet.com/hls/masti.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Sangeet BANGLA
 http://iptv.sarkernet.com/hls/sangeetbangla.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",AXN
 http://iptv.sarkernet.com/hls/axn.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",BHOJPURI
 http://iptv.sarkernet.com/hls/bhojpuri.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",AKASH AAT
 http://iptv.sarkernet.com/hls/akash.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",LOTUS MACAU
 http://iptv.sarkernet.com/hls/lotus.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ENTERTEN BANGLA
 http://iptv.sarkernet.com/hls/enterr10.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",STAR BANGLA
 http://iptv.sarkernet.com/hls/khushboo.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",JAMUNA
 http://iptv.sarkernet.com/hls/jamuna.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",GAAN BANGLA
 http://iptv.sarkernet.com/hls/gb.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Duranta
 http://iptv.sarkernet.com/hls/duranta.m3u8
-http://iptv.sarkernet.com/hls/nagorik.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ATN
 http://iptv.sarkernet.com/hls/atn.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Banglavision
 http://iptv.sarkernet.com/hls/banglavision.m3u8
 
-
-
-
+http://iptv.sarkernet.com/hls/nagorik.m3u8
