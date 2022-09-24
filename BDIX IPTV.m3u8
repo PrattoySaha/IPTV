@@ -6,6 +6,9 @@ http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gazi-tv-bd.png",GTV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gazi-tv-bd.png",GAZI TV
+https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",09.NTV
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
