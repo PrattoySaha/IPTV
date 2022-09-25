@@ -196,7 +196,8 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",FOOD TV#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",FATION TV
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",FATION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",DW TV
@@ -365,30 +366,49 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 
 
-
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",BINDASS
 http://iptv.sarkernet.com/hls/bindass.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",UTV ACTION
 http://iptv.sarkernet.com/hls/utvaction.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ZOOM
 http://iptv.sarkernet.com/hls/zoom.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SUNTV HD
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",&PICTURES
 http://iptv.sarkernet.com/hls/andpictures.m3u8
 
-
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",COLORS TV
 http://iptv.sarkernet.com/hls/colore-tv-hd.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ZEE CINEMA HD
 http://iptv.sarkernet.com/hls/zeecinemahd.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",STAR PLUS HD
 http://iptv.sarkernet.com/hls/starplus.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",COLORS CINEPLEX HD
 http://iptv.sarkernet.com/hls/colorscineplex.m3u8
+
 http://iptv.sarkernet.com/hls/sonymax.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Star GOLD 2
 http://iptv.sarkernet.com/hls/stargold2hd.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SONY ENTERTENMENT
 http://iptv.sarkernet.com/hls/sonyen.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SONY MAX HD
 http://iptv.sarkernet.com/hls/sony-maxhd.m3u8
 
-#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SUNTV HD
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ZEE TV HD
 http://iptv.sarkernet.com/hls/zeetv.m3u8
 
 
-
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",DISCOVERY SCIENCE HD
 http://iptv.sarkernet.com/hls/dis-science.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",STAR GOLD HD
 http://iptv.sarkernet.com/hls/stargold.m3u8
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",DHINCHUK 2
@@ -398,18 +418,40 @@ http://iptv.sarkernet.com/hls/dhin.m3u8
 http://iptv.sarkernet.com/hls/9xm.m3u8
 
 
-
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SONY PIX HD
 http://iptv.sarkernet.com/hls/sonypixhd.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",MOVIES NOW HD
 http://iptv.sarkernet.com/hls/movies-now.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Star MOVIES HD
 http://iptv.sarkernet.com/hls/starmovies.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",BBC EARTH HD
 http://iptv.sarkernet.com/hls/bbcearth.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",MN+
 http://iptv.sarkernet.com/hls/mn+.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ANIMAL PLANET HD
 http://iptv.sarkernet.com/hls/animalplanent.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",DISCOVERY HD
 http://iptv.sarkernet.com/hls/discovery.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",NATIONAL GEOGRAPHY HD
 http://iptv.sarkernet.com/hls/ngohd.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",TLC HD
 http://iptv.sarkernet.com/hls/tlc.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",WILD HD
 http://iptv.sarkernet.com/hls/wild.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",STAR World HD
 http://iptv.sarkernet.com/hls/star-worldhd.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",MNX HD
 http://iptv.sarkernet.com/hls/mnx-hd.m3u8
 
 
@@ -423,16 +465,34 @@ http://iptv.sarkernet.com/hls/bbcworld.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ALJAZEERA
 http://iptv.sarkernet.com/hls/aljazeera.m3u8
 
-
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SONY SIX HD
 http://iptv.sarkernet.com/hls/sonysix.m3u8
+
+
 http://iptv.sarkernet.com/hls/euro.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Star Sport Select 1 HD
 http://iptv.sarkernet.com/hls/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Star Sport 1 HD
 http://iptv.sarkernet.com/hls/stersports1hd.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Star Sport 2 HD
 http://iptv.sarkernet.com/hls/starsports2.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SONY TEN 3
 http://iptv.sarkernet.com/hls/sonyten3.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Star Sport Select 2 HD
 http://iptv.sarkernet.com/hls/select2.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SONY TEN 1 HD
 http://iptv.sarkernet.com/hls/sonyten2.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SONY TEN 1 HD
 http://iptv.sarkernet.com/hls/sonyten1.m3u8
+
+
 http://iptv.sarkernet.com/hls/t-sports.m3u8
 
 
@@ -449,12 +509,13 @@ http://iptv.sarkernet.com/hls/sunbangla.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",Independent
 http://iptv.sarkernet.com/hls/indepen.m3u8
 
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SONY AAT
 http://iptv.sarkernet.com/hls/Sony_Aath.m3u8
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",GAZI TV GTV
 http://iptv.sarkernet.com/hls/Gazi-TV.m3u8
 
-
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",TRAVEL XP
 http://iptv.sarkernet.com/hls/travelxp.m3u8
 
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",EKATTOR TV
@@ -468,13 +529,29 @@ http://iptv.sarkernet.com/hls/masranga.m3u8
 
 
 http://iptv.sarkernet.com/hls/somoy.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ZEE BANGLA CINEMA
 http://iptv.sarkernet.com/hls/zee-bangla-cinema.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",COLORS BANGLA CINEMA
 http://iptv.sarkernet.com/hls/colore-bangla-cinema.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",JALSA MOVIES HD
 http://iptv.sarkernet.com/hls/jalshamovies.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",COLORS BANGLA HD
 http://iptv.sarkernet.com/hls/colorsbangla.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",ZEE BANGLA HD
 http://iptv.sarkernet.com/hls/zeebanglahd.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",STAR JALSA HD
 http://iptv.sarkernet.com/hls/starjalsha.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",SONY YAY
 http://iptv.sarkernet.com/hls/dis-kid.m3u8
+
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",NICK
 http://iptv.sarkernet.com/hls/nick.m3u8
 
 
