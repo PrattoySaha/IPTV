@@ -334,6 +334,37 @@ http://103.16.24.54:8080/channel7/index.m3u8
 
 
 
+favourites Channel
+
+
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", 10-Color Bangla HD
+http://103.99.249.107:81/play/a00j
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",66-Sun Bangla SD
+http://103.99.249.107:81/play/a02h
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",71-Zee Bangla Cinema SD
+http://103.99.249.107:81/play/a01m
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",72-Zee Bangla HD
+http://103.99.249.107:81/play/a01a
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_STAR JALSHA
+http://103.99.249.107:81/play/a030
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", 55-Star Jalsha HD
+http://103.99.249.107:81/play/a00l
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_JALSHA MOVIES
+http://103.99.249.107:81/play/a02w
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_SONY AATH
+http://103.99.249.107:81/play/a03f
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_NICK BANGLA
+http://103.99.249.107:81/play/a03g
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_SONY YAY BANGLA
+http://103.99.249.107:81/play/a02u
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", M- Wedigital HD
+http://103.99.249.107:81/play/a02f
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_Sun Bangla
+http://103.99.249.107:81/play/a037
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_ZEE BANGLA
+http://103.99.249.107:81/play/a02z
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", INCL_Zee Bangla Cinema
+http://103.99.249.107:81/play/a039
 
 
 
