@@ -7,6 +7,9 @@ http://103.143.235.50:8080/ch4/ch4.m3u8
 #EXTINF:-1 group-title="Live Sports" tvg-logo="https://tinyurl.com/2py487hx", BTV HD Live Sports 1  (GC - HPLink)
 http://103.143.235.50:8080/ch2/ch2.m3u8
 
+#EXTINF:-1 group-title="Live Sports" tvg-logo="https://tinyurl.com/2py487hx", star Sports 1  (GC - HPLink)
+http://iptv.hplink.com.bd:8080/hls/sports.m3u8
+
 
 
 
