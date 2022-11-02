@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/CJUmEHD.png",T Sports HD
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 
 #EXTINF:-1  tvg-logo="https://brandlogos.net/wp-content/uploads/2011/06/wifi-zone-logo.png", WI-FI Zone 2
 http://103.158.2.10:1935/live/ch-1/index.m3u8
