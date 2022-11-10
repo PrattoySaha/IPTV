@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/CJUmEHD.png",T Sports HD
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/sprts/t-sports.jpg",T Sports HD
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index-1667566800-now.m3u8
 
 SUNPLEX
 
@@ -57,6 +53,20 @@ http://103.118.76.146:1935/plex/tsports.stream/chunklist_w1278672545.m3u8
 
 
 
+
+palki
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/CJUmEHD.png",T Sports HD
+http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
+
+
+
+ayna ott
+
+
+
+#EXTINF:-1 group-title="AynaOTT" tvg-logo="http://10.16.100.244/assets/img/channels/sprts/t-sports.jpg",T Sports HD
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/index-1667566800-now.m3u8
 
 #EXTINF:-1  ,Star Jalsha HD
 https://tvs1.aynaott.com/StarJalshaHd/tracks-v1a1/mono.m3u8
