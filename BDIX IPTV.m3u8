@@ -5,7 +5,8 @@
 SUNPLEX
 
 
-
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="SUNPLEX",SOMOY TV
+http://103.118.76.146:1935/evolution/SOMOY-TV.stream/playlist.m3u8.m3u8
 #EXTINF:-1 group-title="Sonyplex",Atn Bangla
 http://103.118.76.146:1935/evolution/ATN-BANGLA.stream/chunklist_w1786990682.m3u8
 #EXTINF:-1 tvg-name="MAASRANGA TV" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="SUNPLEX",MAASRANGA TV
