@@ -6,7 +6,8 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/CJUmEHD.png",T Sports HD
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 
-
+#EXTINF:-1,fifa-free
+https://live.bdtv.xyz:2096/asiacup22/tsports/playlist.m3u8
 
 
 JAGOBD
