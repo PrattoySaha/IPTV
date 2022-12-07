@@ -10,16 +10,7 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi", Gazi TV HD 
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-
-
-#EXTINF:-1,fifa-free
-http://103.78.254.169:8888/c5/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,fifa-free
-http://15.1.1.38:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
-
+http://103.143.235.50:8080/101/101.m3u8
 
 
 JAGOBD
