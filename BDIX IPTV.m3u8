@@ -16,7 +16,7 @@ MAGURAPLEX
 #EXTINF:-1,fifa 
 http://tv.maguraplex.net:8000/live/toffee/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi",sports18
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Sports18_official_logo.png" group-title="Bangladeshi",sports18
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi", Gazi TV HD 
@@ -25,7 +25,7 @@ http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/CJUmEHD.png",T Sports HD
 http://tv.maguraplex.net:8000/live/tsports/index.m3u8
 
-#EXTINF:-1,fifa-tyc
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://en.wikipedia.org/wiki/File:TyC_Sports_logo.svg",fifa-tyc
 http://tv.maguraplex.net:8000/live/tyc/index.m3u8
 
 
