@@ -10,6 +10,9 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi", Gazi TV HD 
+http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladeshi", Gazi TV HD 
 http://103.143.235.50:8080/101/101.m3u8
 
 
