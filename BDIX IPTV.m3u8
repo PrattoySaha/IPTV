@@ -1,27 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1,fifa-free
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
-#EXTINF:-1,fifa-free
+
+#EXTINF:-1,matrivumi
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
-
-#EXTINF:-1,fifa-Paid
-https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-
-#EXTINF:-1,GTV
-http://103.143.235.50:8080/101/101.m3u8
-#EXTINF:-1,TSPORTSA
-http://103.143.235.50:8080/102/102.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/CJUmEHD.png",T Sports HD
-http://cdn01.palki.tv/live/TSports-M/index.fmp4.m3u8
 
 
 MAGURAPLEX
 
 
-#EXTINF:-1,fifa 
-http://tv.maguraplex.net:8000/live/toffee/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Sports18_official_logo.png" group-title="Bangladeshi",sports18
 http://tv.maguraplex.net:8000/live/sports18/index.m3u8
@@ -94,16 +80,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/playlist.m
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/playlist.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",DW TV
 http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png",BTV World
-http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",SOMOY TV
-http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",Channel 24
-http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
-http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
-http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png",NEWS 24 HD
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC News
