@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="zee.bangla.in" tvg-name="Zee Bangla" tvg-logo="" group-title="Bengali",Zee Bangla
+http://watchindia.net:8880/live/14100/70701/2283.ts
+
+#EXTINF:-1 tvg-id="star.jalsha.in" tvg-name="Star Jalsha HD" tvg-logo="" group-title="Bengali",Star Jalsha HD
+http://watchindia.net:8880/live/14100/70701/2281.ts
+
 #EXTINF:-1,matrivumi
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 
