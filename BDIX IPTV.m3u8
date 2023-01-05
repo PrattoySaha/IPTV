@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1,Colors Bangla
+http://watchindia.net:8880/live/14100/70701/2284.ts
+#EXTINF:-1,Dhoom Music
+http://watchindia.net:8880/live/14100/70701/2289.ts
+#EXTINF:-1,Jalsha Movies
+http://watchindia.net:8880/live/14100/70701/2282.ts
+#EXTINF:-1,Sangeet Bangla
+http://watchindia.net:8880/live/14100/70701/2288.ts
+#EXTINF:-1,Sony Aath
+http://watchindia.net:8880/live/14100/70701/2286.ts
+#EXTINF:-1,Star Jalsha HD
+http://watchindia.net:8880/live/14100/70701/2281.ts
+#EXTINF:-1,Sun Bangla
+http://watchindia.net:8880/live/14100/70701/2290.ts
+#EXTINF:-1,Zee Bangla
+http://watchindia.net:8880/live/14100/70701/2283.ts
+#EXTINF:-1,Zee Bangla Cinema
+http://watchindia.net:8880/live/14100/70701/2287.ts
+
 
 #EXTINF:-1 tvg-id="zee.bangla.in" tvg-name="Zee Bangla" tvg-logo="" group-title="Bengali",Zee Bangla
 http://watchindia.net:8880/live/14100/70701/2283.ts
