@@ -3,6 +3,9 @@
 #EXTINF:-1 ,T Sports Official
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
+#EXTINF:-1 ,gtv Official
+http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w523202090.m3u8?bdixsportstokenendtime=1679131180&bdixsportstokenstarttime=1679124180&bdixsportstokenhash=rOB7IjOWOcENDLnMB9o-x0oio6Gur7oZLAgnuLM4XGI%3D
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="test",Star Sports-1
 http://103.157.88.1:6500/play/a00b/index.m3u8
 
