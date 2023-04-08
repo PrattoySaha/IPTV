@@ -6,7 +6,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 ,T Sports Official
 https://live.tsports.com/live/tsports_live_2_720/index.m3u8
 
-#EXTINF:-1 ,gtv Official
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" tvg-logo-small="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="BCIPTV LIVE", Gazi TV
 http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w523202090.m3u8?bdixsportstokenendtime=1679131180&bdixsportstokenstarttime=1679124180&bdixsportstokenhash=rOB7IjOWOcENDLnMB9o-x0oio6Gur7oZLAgnuLM4XGI%3D
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MKW1TbhM/Channel-I.png" group-title="test",Star Sports-1
@@ -15,16 +15,19 @@ http://103.157.88.1:6500/play/a00b/index.m3u8
 #EXTINF:-1 ,DISCOVERY BANGLA
 https://s4v4r3k4.rocketcdn.me/delta/discovery/api/Discovery_Bangla.m3u8
 
-#EXTINF:-1 ,duranta
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BCIPTV LIVE", DURONTO TV
 http://10.192.0.3:1001/tv_channel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,GaziTV
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" tvg-logo-small="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="BCIPTV LIVE", Gazi TV
 http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TSports-Live
 http://10.192.0.3:1001/tv_channel_3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,star sports 1 hd
 http://10.192.0.3:1001/tv_channel_4/tracks-v1/mono.m3u8
 
-#EXTINF:-1 ,GaziTV
+
+
+
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" tvg-logo-small="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="BCIPTV LIVE", Gazi TV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TSports-Live
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
@@ -36,17 +39,16 @@ http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Nagorik
 http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,starJalsa
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BCIPTV LIVE", STAR JALSHA
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZeeBangla
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/index.m3u8
-#EXTINF:-1 ,SonyMax
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="BCIPTV LIVE", SONY MAX
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,HBO
 http://tv.dugdugilive.com:8080/0ne$ky23/HBO/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,StarMovies
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="BCIPTV LIVE", star-movies-hd
 http://tv.dugdugilive.com:8080/0ne$ky23/StarMovies/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:-1 ,HBO
@@ -167,6 +169,11 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,HBO
 http://tv.dugdugilive.com:8080/0ne$ky23/Cartoon/index.m3u8
+
+
+
+
+
 
 
 
