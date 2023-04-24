@@ -7,6 +7,11 @@ https://tv.musajeeb.online/GTV/index.m3u8
 #EXTINF:-1 ,Tsports
 https://tv.musajeeb.online/T-Sports/index.m3u8
 
+#EXTINF:-1 Sonyliv
+https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/master_mdh.m3u8?hdnea=st=1682360246~exp=1682360546~acl=*~id=d614b8c3-778e-43be-b51c-56ed9b4a5c25~hmac=dc9681cf2a1d683229a9e5eb021a6b15c1a50c6800b2d8f3f1b8c5b659c037ad&originpath=/linear/hls/pb/event/5qTBYna8R8SzYpzFGIngag/stream/f8865693-f454-4ac4-82a1-c3204bb0648b:SIN2/master.m3u8
+#EXTINF:-1 Sonyliv
+https://dai.google.com/linear/hls/event/5qTBYna8R8SzYpzFGIngag/master.m3u8
+
 
 #EXTINF:-1 ,T Sports Official
 https://live.tsports.com/live/tsports_live_720/index.m3u8
