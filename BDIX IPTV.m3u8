@@ -7,39 +7,71 @@ http://12.1.1.1:8082/Gazi-Tv/index.m3u8
 http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Amar BD" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",TSPORTS
 http://12.1.1.1:8082/T-Sports/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 1
 http://12.1.1.1:8082/Ten1/index.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 2
 http://12.1.1.1:8082/Ten2/index.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 3
 http://12.1.1.1:8082/Ten3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 1 HD
 http://12.1.1.1:8082/Star-Sports-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="Sports", Star Sports 2 HD
 http://12.1.1.1:8082/Star-Sports-2/index.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",STAR SPORTS SELECT 1 HD
 http://12.1.1.1:8082/Star-Select-1/index.m3u8
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", 63-Star Sports Select 2 HD
 http://12.1.1.1:8082/Star-Select-2/index.m3u8
+#EXTINF:-1 group-title="AynaOTT" tvg-logo="http://bdiptv.net/assets/images/colorsbangla.jpg",Colors Bangla
 http://12.1.1.1:8082/colorsbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg" group-title="Indian Bangla", Zee Bangla Cinema
 http://12.1.1.1:8082/ZeeBanglacinema/index.m3u8
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://sunplex.net/iptv/logo/sony-aath.jpg" group-title="SUNPLEX",SONY AATH
 http://12.1.1.1:8082/Sonyaath/index.m3u8
+#EXTINF:-1 tvg-name="STAR JALSHA" tvg-logo="https://sunplex.net/iptv/logo/star-jalsha.jpg" group-title="SUNPLEX",STAR JALSHA
 http://12.1.1.1:8082/Star-Jalsha/index.m3u8
+#EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="https://sunplex.net/iptv/logo/zee-bangla.jpg" group-title="SUNPLEX",ZEE BANGLA
 http://12.1.1.1:8082/ZeeBanglaHD/index.m3u8
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703",Jalsha Movies HD
 http://12.1.1.1:8082/Jalshamovies/index.m3u8
+#EXTINF:-1 group-title="Bangla" tvg-logo="http://dugdugilive.com/img/channels/dbcnews.png",DBC News HD (BDIX0)
 http://12.1.1.1:8082/DBC-NEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangladeshi", ATN News
 http://12.1.1.1:8082/Atn-News/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="Bangladeshi", Independent TV
 http://12.1.1.1:8082/Independent-Tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x15351" group-title="Jagobd",Somoy News
 http://12.1.1.1:8082/Somoy-TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x15351" group-title="Jagobd",NEWS 24
 http://12.1.1.1:8082/News24bd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x15351" group-title="Jagobd",ATN Bangla
 http://12.1.1.1:8082/ATN-Bangla/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x15351" group-title="Jagobd",Channel I
 http://12.1.1.1:8082/Channel-i/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Bangladeshi", Ekusey TV
 http://12.1.1.1:8082/Ekushey-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladeshi", RTV HD
 http://12.1.1.1:8082/RTV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x15351" group-title="Jagobd",SA TV
 http://12.1.1.1:8082/SATV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x15351" group-title="Jagobd",Banglavision
 http://12.1.1.1:8082/BanglaVision/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x15351" group-title="Jagobd",Boishakhi TV
 http://12.1.1.1:8082/Boishakhi/index.m3u8
+#EXTINF:-1 tvg-name="GAAN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/gaan-bangla.jpg" group-title="SUNPLEX",GAAN BANGLA
 http://12.1.1.1:8082/GaanBangla/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png",ICC_Mohona Tv
 http://12.1.1.1:8082/MohonaTV/index.m3u8
+##EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel",80-INCL_&pictures HD
 http://12.1.1.1:8082/And-Pictures/index.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png",Discovery
 http://12.1.1.1:8082/Discovery-Tv/index.m3u8
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", 31-Nat Geo Wild HD
 http://12.1.1.1:8082/Nat-Geo/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png " group-title="English Infotainment", TLC
 http://12.1.1.1:8082/TLC_World/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a4e2e38d-6a60-409e-9419-40b9fd97e29a_180x180_bbcnews.jpeg",BBC NEWS
 http://12.1.1.1:8082/BBC_World/index.m3u8
+#EXTINF:-1 tvg-language="Arif_Khan" tvg-logo="https://i.imgur.com/6H2uZgL.jpg?1" group-title="favourites Channel", 33-Nick HD+
 http://12.1.1.1:8082/nike/index.m3u8
 
 
