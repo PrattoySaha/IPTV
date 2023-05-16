@@ -1,5 +1,54 @@
 #EXTM3U
 
+
+
+#EXTINF: -1 tvg-chno="1" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="Amar BD", Gazi TV
+http://12.1.1.1:8082/Gazi-Tv/index.m3u8
+#EXTINF:-1 group-title="Amar BD" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",TSPORTS
+http://12.1.1.1:8082/T-Sports/index.m3u8
+
+http://12.1.1.1:8082/Ten1/index.m3u8
+http://12.1.1.1:8082/Ten2/index.m3u8
+http://12.1.1.1:8082/Ten3/index.m3u8
+http://12.1.1.1:8082/Star-Sports-1/index.m3u8
+http://12.1.1.1:8082/Star-Sports-2/index.m3u8
+http://12.1.1.1:8082/Star-Select-1/index.m3u8
+http://12.1.1.1:8082/Star-Select-2/index.m3u8
+http://12.1.1.1:8082/colorsbangla/index.m3u8
+http://12.1.1.1:8082/ZeeBanglacinema/index.m3u8
+http://12.1.1.1:8082/Sonyaath/index.m3u8
+http://12.1.1.1:8082/Star-Jalsha/index.m3u8
+http://12.1.1.1:8082/ZeeBanglaHD/index.m3u8
+http://12.1.1.1:8082/Jalshamovies/index.m3u8
+http://12.1.1.1:8082/DBC-NEWS/index.m3u8
+http://12.1.1.1:8082/Atn-News/index.m3u8
+http://12.1.1.1:8082/Independent-Tv/index.m3u8
+http://12.1.1.1:8082/Somoy-TV/index.m3u8
+http://12.1.1.1:8082/News24bd/index.m3u8
+http://12.1.1.1:8082/ATN-Bangla/index.m3u8
+http://12.1.1.1:8082/Channel-i/index.m3u8
+http://12.1.1.1:8082/Ekushey-TV/index.m3u8
+http://12.1.1.1:8082/RTV/index.m3u8
+http://12.1.1.1:8082/SATV/index.m3u8
+http://12.1.1.1:8082/BanglaVision/index.m3u8
+http://12.1.1.1:8082/Boishakhi/index.m3u8
+http://12.1.1.1:8082/GaanBangla/index.m3u8
+http://12.1.1.1:8082/MohonaTV/index.m3u8
+http://12.1.1.1:8082/And-Pictures/index.m3u8
+http://12.1.1.1:8082/Discovery-Tv/index.m3u8
+http://12.1.1.1:8082/Nat-Geo/index.m3u8
+http://12.1.1.1:8082/TLC_World/index.m3u8
+http://12.1.1.1:8082/BBC_World/index.m3u8
+http://12.1.1.1:8082/nike/index.m3u8
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 ,Star sports 1
 https://tv.musajeeb.online/Star-Sports-1/index.m3u8
 #EXTINF:-1 ,GTV
