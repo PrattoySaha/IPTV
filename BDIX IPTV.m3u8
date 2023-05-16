@@ -4,6 +4,7 @@
 
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://gazitv.com/wp-content/uploads/2022/05/GTV-LOGO-HD240x108.png" group-title="Amar BD", Gazi TV
 http://12.1.1.1:8082/Gazi-Tv/index.m3u8
+http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Amar BD" tvg-logo="https://i.imgur.com/QQkTmfT.jpg",TSPORTS
 http://12.1.1.1:8082/T-Sports/index.m3u8
 
