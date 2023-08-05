@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+http://103.102.27.173/live/tvfeed1002/index.m3u8
+
 #EXTINF:-1 ,discovery
 http://103.141.2.37:25461/live/web/web/540.m3u8
 
