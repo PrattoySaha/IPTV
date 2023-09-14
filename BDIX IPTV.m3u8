@@ -10,7 +10,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1,Cartoon Network
 http://194.76.186.33:8000/play/a02r/index.m3u8
-
+#EXTINF:-1,Cartoon Network us
+http://45.5.117.182:8000/play/a0en/index.m3u8
 
 #EXTINF:-1 ,tsport
 http://103.102.27.173/live/tvfeed1001/index.m3u8
