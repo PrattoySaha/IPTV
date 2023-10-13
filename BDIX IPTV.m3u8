@@ -1,6 +1,13 @@
 #EXTM3U
 
-
+#EXTINF:-1,Gtv carnival
+http://10.20.30.10:8888/LiveSports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Gtv carnival
+http://10.20.30.10:8888/LiveSports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Gtv carnival
+http://10.20.30.10:8888/LiveSports-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Gtv carnival
+http://10.20.30.10:8888/LiveSports-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Gtv
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
