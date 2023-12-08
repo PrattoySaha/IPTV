@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1,group-title="maa" ,ZEE BANGLA mac
+#EXTINF:-1,group-title="maa", ZEE BANGLA mac
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155774&extension=ts&play_token=otM0DQF4Ff
-#EXTINF:-1,group-title="maa" ,STARJALSHA mac
+#EXTINF:-1,group-title="maa", STARJALSHA mac
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155770&extension=ts&play_token=otM0DQF4Ff
 
 #EXTINF:-1,ZEE BANGLA HD
