@@ -9,16 +9,7 @@ http://pgplex.net:8080/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Star Jalsha HD
 http://pgplex.net:8080/StarJalshaHD/index.m3u8
 
-#EXTINF: -1 tvg-name="DURONTO TV" tvg-logo="https://en.wikipedia.org/wiki/Duronto_TV#/media/File:Duronto_TV_Logo.png" group-title="Kids", DURONTO TV
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=36&e=.m3u8
-#EXTINF: -1 tvg-name="CN" tvg-logo="http://toffe.top/images/cn.png" group-title="Kids", CN
 
-#EXTINF: -1 tvg-name="SONY YAY" tvg-logo="https://en.wikipedia.org/wiki/Sony_YAY!#/media/File:Sony_Yay_new.png" group-title="Kids", SONY YAY
-https://bdsatv24.000webhostapp.com/bdaynaa.php?ic=70&e=.m3u8
-#EXTINF: -1 tvg-name="NICK JR" tvg-logo="http://toffe.top/images/nickjr.png" group-title="Kids", NICK JR
-https://bongohub.pw/bioscope.php?cc=nick-junior
-#EXTINF: -1 tvg-name="NICK" tvg-logo="http://toffe.top/images/nick.jpg" group-title="Kids", NICK
-https://bongohub.pw/bioscope.php?cc=nickelodeon
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYsfjtx0/BPL-2024.jpg",BPL Live Gazi TV
