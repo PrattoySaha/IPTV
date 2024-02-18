@@ -6,6 +6,117 @@
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TH02HpS/IMG-20240214-081024.png", Test
 https://hls.streambtw.com/live/stream_psl.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi" ,Deepto TV
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Somoy TV
+https://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Ekhon TV
+https://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Movie Bangla
+https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",BTV HD
+http://103.230.105.252:1935/live/btv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",NEWS 24
+https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Jago News 24
+https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Nexus TV
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", ATN Bangla
+https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", ATN Music
+https://livess.jagobd.com.bd/live-orgin/atnmusic.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", ATN Islamic
+https://livess.jagobd.com.bd/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Bangla Tv
+https://livess.jagobd.com.bd/live-orgin/banglatvhd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Banglavision HD
+https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Boishakhi TV
+https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Channel 24
+https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",SP Tv
+http://103.81.104.51/hls/sptv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Bijoy TV
+https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Channel I HD
+https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", DBC News
+https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Green TV 
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Independent TV
+https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Jamuna TV
+https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Ekushey TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Mohona TV HD
+https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", Maasranga HD
+https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", News 24 HD
+https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", N Tv
+http://103.230.105.252:1935/live/ntv/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", RTV HD
+https://livess.jagobd.com.bd/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi", SATV HD
+https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Rajdhani Tv
+https://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png" group-title="Bangladeshi",Nexus Tv 
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png",ZEE Bangla HD
 http://pgplex.net:8080/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg",Star Jalsha HD
