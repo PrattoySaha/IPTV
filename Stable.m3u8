@@ -163,4 +163,9 @@ https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1,PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-1 tvg-id="65" tvg-name="Cartoon Network" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg" tvg-chno="65" group-title="AynaOTT (KayaTech)",Cartoon Network
+https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=65&e=.m3u8
+#EXTINF:-1 tvg-id="66" tvg-name="PBS Kids" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg" tvg-chno="66" group-title="AynaOTT (KayaTech)",PBS Kids
+https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=66&e=.m3u8
+
 
