@@ -26,6 +26,9 @@ https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=27&e=.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="T Sports" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5613629e-48b2-4bf1-918e-f0adc3abc394_180x180_tsports.png" tvg-chno="28" group-title="AynaOTT (KayaTech)",T Sports
 https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=28&e=.m3u8
 
+#EXTINF:-1 tvg-id="17" tvg-name="Somoy News TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2b7e4021-ff6b-4fb3-8a6e-36ff4388086d_180x180_8e4e88aa-10c0-4c91-8465-9c2ddad8b6e8.png" tvg-chno="17" group-title="AynaOTT (KayaTech)",Somoy News TV
+https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=17&e=.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg",Somoy TV
 http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Ekhon TV
