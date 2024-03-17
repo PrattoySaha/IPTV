@@ -1,15 +1,15 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="ZEE Bangla HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/09bff4ab-934e-4b47-bacd-4c24ffaf3047_180x180_zee-bangla-hd.jpg" tvg-chno="94" group-title="AynaOTT (KayaTech)",ZEE Bangla HD
+https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=94&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Kolkata Bangla",Star Jalsha HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
-#EXTINF:-1 tvg-id="94" tvg-name="ZEE Bangla HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/09bff4ab-934e-4b47-bacd-4c24ffaf3047_180x180_zee-bangla-hd.jpg" tvg-chno="94" group-title="AynaOTT (KayaTech)",ZEE Bangla HD
-https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=94&e=.m3u8
+
 #EXTINF:-1 tvg-id="104" tvg-name="Zee Bangla" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/92a89f33-066e-40b2-b931-7d8b0c211997_180x180_zee-bangla-logo.jpg" tvg-chno="104" group-title="AynaOTT (KayaTech)",Zee Bangla
 https://bdix.friendshiplive2023.xyz/bdixOTT/aynaott/stream.m3u8?id=104&e=.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="Gazi TV" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/2f2ba44d-d6a4-4ec3-9d32-6330d9290ed9_180x180_Gtv.jpg" tvg-chno="18" group-title="AynaOTT (KayaTech)",Gazi TV
