@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pVs6sjF1/Sb.jpg" group-title="Bangla", Star Jalsha BACKUP
+http://tv.cloudcdn.me/live.ts?channelId=116592&uid=9592&deviceMac=00:1A:79:82:85:F0
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png" group-title="Palki.tv", BTV
 http://cdn01.palki.tv/live/BTV-M/index.m3u8
