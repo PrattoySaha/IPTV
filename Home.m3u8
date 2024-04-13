@@ -5,7 +5,7 @@ http://103.107.79.87:8080/CH8110SD01/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8110SD03/tracks-v1a1/mono.m3u8
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 #EXTINF:-1 group-title="INDIAN BANGLA CHANNELS"tvg-logo="https://i.ibb.co/9cfcKcP/IMG-20240126-113721.png",Jalsha Movies
-
+http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SPORTS CHANNELS",G TV 
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
