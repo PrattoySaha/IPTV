@@ -12,7 +12,8 @@ https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="SPORTS CHANNELS", T Sports  
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="SPORTS CHANNELS", T Sports HD 
-http://103.77.218.14:8082/Tsports-2/index.m3u8
+https://live-cdn.tsports.com/live-02/index.m3u8
+#http://103.77.218.14:8082/Tsports-2/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vj3Mh4B/IMG-20240320-113250.png" group-title="BANGLADESHI CHANNELS",Somoy 
