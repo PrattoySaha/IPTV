@@ -178,3 +178,5 @@ http://103.107.79.87:8080/CH8110HD06/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8110HD07/tracks-v1a1/mono.m3u8
 #EXTINF:-1 Discovery HD
 http://103.107.79.87:8080/CH8110HD08/tracks-v1a1/mono.m3u8
+#EXTINF:-1 Colors
+http://103.107.79.87:8080/CH8108HD06/tracks-v1a1/mono.m3u8
