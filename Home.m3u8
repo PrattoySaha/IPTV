@@ -13,7 +13,7 @@ http://103.107.79.87:8080/CH8110SD02/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SPORTS CHANNELS",G TV 
 http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbBkXhn/IMG-20240126-083614.png"group-title="SPORTS CHANNELS", T Sports  
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:T_Sports_logo.png"group-title="SPORTS CHANNELS", T Sports  
 https://live-cdn.tsports.com/live-02/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="SPORTS CHANNELS", T Sports HD 
 https://live-cdn.tsports.com/live-02/index.m3u8
