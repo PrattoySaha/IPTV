@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" group-title="Bangladeshi",Zee Bangla Hd Bd
+http://opplex.tv:8080/live/2312211/1616616/245893.ts
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha Hd
+http://opplex.tv:8080/live/2312211/1616616/245898.ts
+
+
 #EXTINF: -1 tvg-name="ZEE BANGLA" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA
 http://tv.cloudcdn.me:80/live.ts?
 
