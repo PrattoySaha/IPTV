@@ -199,3 +199,7 @@ http://103.107.79.87:8080/CH8110HD07/tracks-v1a1/mono.m3u8
 http://103.107.79.87:8080/CH8110HD08/tracks-v1a1/mono.m3u8
 #EXTINF:-1 Colors
 http://103.107.79.87:8080/CH8108HD06/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Informative" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png",Animal Planet
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
