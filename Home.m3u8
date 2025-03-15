@@ -2,11 +2,11 @@
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha Hd
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SPORTS CHANNELS",G TV
+#EXTINF:-1 group-title="AynaOTT" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",GTV HD
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="SPORTS CHANNELS", T Sports HD 
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SPORTS CHANNELS",G TV
+#EXTINF:-1 group-title="AynaOTT" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",GTV HD
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/6B7ckBX/IMG-20240320-113228.png" group-title="SPORTS CHANNELS",G TV
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
