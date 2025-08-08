@@ -73,6 +73,53 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1,HOT8 HD
+http://213.137.87.195:81/HOT8/index.m3u8
+#EXTINF:-1,Foody HD
+http://213.137.87.195:81/Foody/index.m3u8
+#EXTINF:-1,HOT3 HD
+http://213.137.87.195:81/HOT3/index.m3u8
+#EXTINF:-1,TeenNick HD
+http://213.137.87.195:81/TeenNick/index.m3u8
+#EXTINF:-1,i24_News HD
+http://213.137.87.195:81/i24_News/index.m3u8
+#EXTINF:-1,MTV HD
+http://213.137.87.195:81/MTV/index.m3u8
+#EXTINF:-1,Foody HD
+http://213.137.87.195:81/Foody/index.m3u8
+#EXTINF:-1,Hop! HD
+http://213.137.87.195:81/Hop!/index.m3u8
+#EXTINF:-1,Junior HD
+http://213.137.87.195:81/Junior/index.m3u8
+#EXTINF:-1,E! HD
+http://213.137.87.195:81/E!/index.m3u8
+#EXTINF:-1,Travel_Channel HD
+http://213.137.87.195:81/Travel_Channel/index.m3u8
+#EXTINF:-1,ntv_mir
+http://213.137.87.195:81/ntv_mir/index.m3u8
+#EXTINF:-1,Disney_Junior
+http://213.137.87.195:81/Disney_Junior/index.m3u8
+#EXTINF:-1,Eurosport_1 HD
+http://213.137.87.195:81/Eurosport_1/index.m3u8
+#EXTINF:-1,Jim_Jam
+http://213.137.87.195:81/Jim_Jam/index.m3u8
+#EXTINF:-1,National_Geographic_HD
+http://213.137.87.195:81/National_Geographic_HD/index.m3u8
+#EXTINF:-1,Nick_Jr HD
+http://213.137.87.195:81/Nick_Jr/index.m3u8
+#EXTINF:-1,Discovery_HD
+http://213.137.87.195:81/Discovery_HD/index.m3u8
+#EXTINF:-1,Disney_Channel HD
+http://213.137.87.195:81/Disney_Channel/index.m3u8
+#EXTINF:-1,Eurosport_2 HD
+http://213.137.87.195:81/Eurosport_2/index.m3u8
+#EXTINF:-1,Zoom HD
+http://213.137.87.195:81/Zoom/index.m3u8
+#EXTINF:-1,TLC HD
+http://213.137.87.195:81/TLC/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://213.137.87.195:81/Nickelodeon/index.m3u8
+
 
 
 #EXTINF: -1 tvg-name="ZEE BANGLA" tvg-logo="http://toffe.top/images/zeebangla.png" group-title="Indian Bangla", ZEE BANGLA
