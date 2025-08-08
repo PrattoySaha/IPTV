@@ -4,6 +4,8 @@ ________________________
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha Hd
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",sony aath
+http://tv.dugdugilive.com:8080/0ne$ky23/Dhoom/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="AynaOTT" tvg-logo="http://dugdugilive.com/img/channels/gtv.png",GTV HD
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h2d6ww5/IMG-20240320-112946.png"group-title="SPORTS CHANNELS", T Sports HD 
@@ -60,8 +62,12 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BDIX" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangladesh-tv-bd.png",EKUSHE TELEVISION
 http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 group-title="Amber it" tvg-logo=" ",Jalsha Movies
+http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/tracks-v1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
 
 
 
